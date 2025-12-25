@@ -36,4 +36,6 @@ This chapter focuses on practical templates, debugging‑first logic, and Kimbal
 
 If you want this section to include more examples, diagrams, SQL patterns, or domain walkthroughs, let me know — I’m building the workbook publicly, and your feedback shapes the next release.
 
-Section 1.2 drops next. Section 1.1 is already live on GitHub.
+Section 1.2 drops next. Section 1.1 is already live on GitHub. For Section 1.2
+
+https://github.com/usman19zafar/Dimensional-Modeling-Kimball-/blob/main/README.md
